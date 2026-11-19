@@ -1,0 +1,66 @@
+{
+    "4_32_256_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 64,
+            "BLOCK_N": 32
+        },
+        "num_warps": 4,
+        "num_stages": 2
+    },
+    "4_32_256_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 64,
+            "BLOCK_N": 32
+        },
+        "num_warps": 4,
+        "num_stages": 2
+    },
+    "4_32_1248_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 64,
+            "BLOCK_N": 32
+        },
+        "num_warps": 4,
+        "num_stages": 2
+    },
+    "4_32_1248_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 64,
+            "BLOCK_N": 32
+        },
+        "num_warps": 4,
+        "num_stages": 2
+    },
+    "4_32_608_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 64,
+            "BLOCK_N": 32
+        },
+        "num_warps": 4,
+        "num_stages": 2
+    },
+    "4_32_608_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 64,
+            "BLOCK_N": 32
+        },
+        "num_warps": 4,
+        "num_stages": 2
+    },
+    "4_32_576_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.bfloat16_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 64,
+            "BLOCK_N": 32
+        },
+        "num_warps": 4,
+        "num_stages": 2
+    },
+    "4_32_576_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32_torch.float32": {
+        "kwargs": {
+            "BLOCK_M": 64,
+            "BLOCK_N": 32
+        },
+        "num_warps": 4,
+        "num_stages": 2
+    }
+}

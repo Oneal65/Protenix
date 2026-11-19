@@ -1,0 +1,240 @@
+{
+ "E2_mini_v05": {
+  "7pzb": [
+   {
+    "sample": 0,
+    "ranking_score": 0.9322,
+    "plddt": 87.5214,
+    "ptm": 0.9321,
+    "iptm": 0.9322,
+    "rep_atom_rmsd": 1.191,
+    "lddt": 0.8177,
+    "interface_lddt": 0.8003,
+    "n_matched_atoms": 4673,
+    "ligands": {
+     "PCG:G": 1.223,
+     "PCG:H": 1.316
+    }
+   },
+   {
+    "sample": 1,
+    "ranking_score": 0.9317,
+    "plddt": 87.4215,
+    "ptm": 0.9313,
+    "iptm": 0.9318,
+    "rep_atom_rmsd": 1.11,
+    "lddt": 0.8178,
+    "interface_lddt": 0.8019,
+    "n_matched_atoms": 4673,
+    "ligands": {
+     "PCG:G": 1.194,
+     "PCG:H": 1.294
+    }
+   },
+   {
+    "sample": 2,
+    "ranking_score": 0.9289,
+    "plddt": 87.413,
+    "ptm": 0.928,
+    "iptm": 0.9291,
+    "rep_atom_rmsd": 1.276,
+    "lddt": 0.8138,
+    "interface_lddt": 0.794,
+    "n_matched_atoms": 4673,
+    "ligands": {
+     "PCG:G": 1.245,
+     "PCG:H": 1.379
+    }
+   },
+   {
+    "sample": 3,
+    "ranking_score": 0.9283,
+    "plddt": 87.4311,
+    "ptm": 0.9278,
+    "iptm": 0.9284,
+    "rep_atom_rmsd": 1.37,
+    "lddt": 0.8152,
+    "interface_lddt": 0.8,
+    "n_matched_atoms": 4673,
+    "ligands": {
+     "PCG:G": 1.162,
+     "PCG:H": 1.302
+    }
+   },
+   {
+    "sample": 4,
+    "ranking_score": 0.9279,
+    "plddt": 87.4926,
+    "ptm": 0.9273,
+    "iptm": 0.928,
+    "rep_atom_rmsd": 1.214,
+    "lddt": 0.8121,
+    "interface_lddt": 0.7901,
+    "n_matched_atoms": 4673,
+    "ligands": {
+     "PCG:G": 1.237,
+     "PCG:H": 1.332
+    }
+   }
+  ],
+  "7r6r": [
+   {
+    "sample": 0,
+    "ranking_score": 0.5969,
+    "plddt": 74.0738,
+    "ptm": 0.6941,
+    "iptm": 0.5726,
+    "rep_atom_rmsd": 3.145,
+    "lddt": 0.741,
+    "interface_lddt": 0.5366,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   },
+   {
+    "sample": 1,
+    "ranking_score": 0.573,
+    "plddt": 73.8771,
+    "ptm": 0.6905,
+    "iptm": 0.5436,
+    "rep_atom_rmsd": 3.691,
+    "lddt": 0.734,
+    "interface_lddt": 0.5095,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   },
+   {
+    "sample": 2,
+    "ranking_score": 0.5719,
+    "plddt": 73.9275,
+    "ptm": 0.7004,
+    "iptm": 0.5398,
+    "rep_atom_rmsd": 2.898,
+    "lddt": 0.7484,
+    "interface_lddt": 0.5534,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   },
+   {
+    "sample": 3,
+    "ranking_score": 0.5672,
+    "plddt": 73.4214,
+    "ptm": 0.6862,
+    "iptm": 0.5374,
+    "rep_atom_rmsd": 2.899,
+    "lddt": 0.7468,
+    "interface_lddt": 0.554,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   },
+   {
+    "sample": 4,
+    "ranking_score": 0.5558,
+    "plddt": 73.0737,
+    "ptm": 0.6772,
+    "iptm": 0.5255,
+    "rep_atom_rmsd": 2.926,
+    "lddt": 0.7468,
+    "interface_lddt": 0.5515,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   }
+  ],
+  "7wux": [
+   {
+    "sample": 0,
+    "ranking_score": 0.9127,
+    "plddt": 87.7522,
+    "ptm": 0.9059,
+    "iptm": 0.9144,
+    "rep_atom_rmsd": 3.544,
+    "lddt": 0.8806,
+    "interface_lddt": 0.7747,
+    "n_matched_atoms": 8201,
+    "ligands": {
+     "P4G:F": 56.069,
+     "6OI:G": 1.545,
+     "MG:H": 20.752,
+     "MG:I": 17.927,
+     "6OI:J": 1.435,
+     "MG:K": 23.33
+    }
+   },
+   {
+    "sample": 1,
+    "ranking_score": 0.9124,
+    "plddt": 87.715,
+    "ptm": 0.9056,
+    "iptm": 0.9141,
+    "rep_atom_rmsd": 3.254,
+    "lddt": 0.8805,
+    "interface_lddt": 0.7738,
+    "n_matched_atoms": 8201,
+    "ligands": {
+     "P4G:F": 40.685,
+     "6OI:G": 2.204,
+     "MG:H": 20.077,
+     "MG:I": 23.438,
+     "6OI:J": 2.434,
+     "MG:K": 30.623
+    }
+   },
+   {
+    "sample": 2,
+    "ranking_score": 0.912,
+    "plddt": 87.7267,
+    "ptm": 0.9053,
+    "iptm": 0.9136,
+    "rep_atom_rmsd": 3.251,
+    "lddt": 0.8801,
+    "interface_lddt": 0.7547,
+    "n_matched_atoms": 8201,
+    "ligands": {
+     "P4G:F": 39.067,
+     "6OI:G": 6.244,
+     "MG:H": 20.596,
+     "MG:I": 47.549,
+     "6OI:J": 6.196,
+     "MG:K": 4.22
+    }
+   },
+   {
+    "sample": 3,
+    "ranking_score": 0.9113,
+    "plddt": 87.7083,
+    "ptm": 0.905,
+    "iptm": 0.9129,
+    "rep_atom_rmsd": 3.317,
+    "lddt": 0.8799,
+    "interface_lddt": 0.7722,
+    "n_matched_atoms": 8201,
+    "ligands": {
+     "P4G:F": 56.716,
+     "6OI:G": 1.778,
+     "MG:H": 29.992,
+     "MG:I": 30.708,
+     "6OI:J": 1.514,
+     "MG:K": 5.541
+    }
+   },
+   {
+    "sample": 4,
+    "ranking_score": 0.9094,
+    "plddt": 87.6907,
+    "ptm": 0.9029,
+    "iptm": 0.911,
+    "rep_atom_rmsd": 3.026,
+    "lddt": 0.8808,
+    "interface_lddt": 0.7792,
+    "n_matched_atoms": 8201,
+    "ligands": {
+     "P4G:F": 19.014,
+     "6OI:G": 1.858,
+     "MG:H": 3.624,
+     "MG:I": 32.536,
+     "6OI:J": 1.853,
+     "MG:K": 12.082
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "E4_seed_scaling": {
+  "7r6r": [
+   {
+    "sample": 0,
+    "ranking_score": 0.9043,
+    "plddt": 90.4843,
+    "ptm": 0.8273,
+    "iptm": 0.9235,
+    "rep_atom_rmsd": 1.516,
+    "lddt": 0.8399,
+    "interface_lddt": 0.8133,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   },
+   {
+    "sample": 1,
+    "ranking_score": 0.9042,
+    "plddt": 90.5039,
+    "ptm": 0.8268,
+    "iptm": 0.9235,
+    "rep_atom_rmsd": 1.466,
+    "lddt": 0.8404,
+    "interface_lddt": 0.8136,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   },
+   {
+    "sample": 2,
+    "ranking_score": 0.9041,
+    "plddt": 90.5368,
+    "ptm": 0.8272,
+    "iptm": 0.9234,
+    "rep_atom_rmsd": 1.632,
+    "lddt": 0.8353,
+    "interface_lddt": 0.8083,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   },
+   {
+    "sample": 3,
+    "ranking_score": 0.9041,
+    "plddt": 90.3421,
+    "ptm": 0.827,
+    "iptm": 0.9233,
+    "rep_atom_rmsd": 1.445,
+    "lddt": 0.8393,
+    "interface_lddt": 0.8103,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   },
+   {
+    "sample": 4,
+    "ranking_score": 0.904,
+    "plddt": 90.5294,
+    "ptm": 0.827,
+    "iptm": 0.9232,
+    "rep_atom_rmsd": 1.753,
+    "lddt": 0.8327,
+    "interface_lddt": 0.7938,
+    "n_matched_atoms": 2256,
+    "ligands": {}
+   }
+  ]
+ }
+}

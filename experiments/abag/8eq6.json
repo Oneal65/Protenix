@@ -1,0 +1,32 @@
+[
+ {
+  "name": "8eq6",
+  "sequences": [
+   {
+    "proteinChain": {
+     "sequence": "GPSGALDSPDRPWNPPTFSPALLVVTEGDNATFTCSFSNTSESFVLNWYRMSPSNQTDKLAAFPEDRSQPGQDSRFRVTQLPNGRDFHMSVVRARRNDSGTYLCGAISLAPKAQIKESLRAELRVTERR",
+     "count": 1,
+     "pairedMsaPath": "/root/Protenix/experiments/abag/msa_out/8eq6/msa/1/pairing.a3m",
+     "unpairedMsaPath": "/root/Protenix/experiments/abag/msa_out/8eq6/msa/1/non_pairing.a3m"
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "ENQLTQSPSSLSASVGDRVTITCRASSSVISSYLHWYQQKPGKAPKLLIYSTSNLASGVPSRFSGSGSGTDYTLTISSLQPEDFATYYCQQYNSYPLTFGGGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+     "count": 1,
+     "pairedMsaPath": "/root/Protenix/experiments/abag/msa_out/8eq6/msa/0/pairing.a3m",
+     "unpairedMsaPath": "/root/Protenix/experiments/abag/msa_out/8eq6/msa/0/non_pairing.a3m"
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "QVQLVQSGAEVKKPGASVKVSCKAFGYTFTTYPIEWMRQAPGKGLEWIGNFHPYNDDTKYNEKFQGRVTLTVDKSSTTVYMELSSLRSEDTAVYYCARENYGSHGGFVYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTH",
+     "count": 1,
+     "pairedMsaPath": "/root/Protenix/experiments/abag/msa_out/8eq6/msa/2/pairing.a3m",
+     "unpairedMsaPath": "/root/Protenix/experiments/abag/msa_out/8eq6/msa/2/non_pairing.a3m"
+    }
+   }
+  ],
+  "covalent_bonds": []
+ }
+]

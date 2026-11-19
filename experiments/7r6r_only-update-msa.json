@@ -1,0 +1,36 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MGSSHHHHHHSSGLVPRGSHMSGKIQHKAVVPAPSRIPLTLSEIEDLRRKGFNQTEIAELYGVTRQAVSWHKKTYGGRLTTRQIVQQNWPWDTRKPHDKSKAFQRLRDHGEYMRVGSFRTMSEDKKKRLLSWWKMLRDNDLVLEFDPSIEPYEGMAGGGFRYVPRDISDDDLLIRVNEHTQLTAEGELLWSWPDDIEELLSEP",
+                    "count": 1,
+                    "id": [
+                        "A"
+                    ],
+                    "pairedMsaPath": "./examples/7r6r/msa/1/pairing.a3m",
+                    "unpairedMsaPath": "./examples/7r6r/msa/1/non_pairing.a3m"
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "TTTCGGTGGCTGTCAAGCGGG",
+                    "count": 1,
+                    "id": [
+                        "B"
+                    ]
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CCCGCTTGACAGCCACCGAAA",
+                    "count": 1,
+                    "id": [
+                        "D"
+                    ]
+                }
+            }
+        ],
+        "name": "7r6r"
+    }
+]
